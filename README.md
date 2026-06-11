@@ -15,7 +15,7 @@
 🔬 Research Interests:
 - 6G Networks
 - Wireless Communication
-- AI & ML
+- AI 
 
 📫 Contact:
 Email: tanjilaabedin07@gmail.com
