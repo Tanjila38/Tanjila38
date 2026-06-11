@@ -5,9 +5,12 @@
 💻 Skills:
 - Python
 - C Programming
+- HTML
+- JAVA
 - MATLAB
 - Simulink
 - DSP
+- AI & ML
 
 🔬 Research Interests:
 - 6G Networks
