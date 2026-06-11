@@ -1,16 +1,18 @@
-## Hi there 👋
+ Hi, I'm Tanjila Abedin Tajin👋
 
-<!--
-**Tanjila38/Tanjila38** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Computer & Communication Engineering Student at IIUC
 
-Here are some ideas to get you started:
+💻 Skills:
+- Python
+- C Programming
+- MATLAB
+- Simulink
+- DSP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 Research Interests:
+- 6G Networks
+- Wireless Communication
+- AI & ML
+
+📫 Contact:
+Email: tanjilaabedin07@gmail.com
